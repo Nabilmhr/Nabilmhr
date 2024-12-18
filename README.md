@@ -24,12 +24,12 @@
     <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> 
   </a> 
   <a href="https://www.sas.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/354279/sas.svg" alt="sas" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/354279/sas.svg" alt="sas" width="60" height="40"/> 
   </a> 
   <a href="https://www.sap.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> 
   </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" width="40" height="40"/> 
+    <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_rgb_500x104.png" alt="tableau" width="60" height="40"/> 
   </a> 
 </p>
